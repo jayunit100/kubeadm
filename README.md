@@ -1,3 +1,7 @@
+# NOTE THIS IS NOT THE OFFICIAL KUBEADM source repository (yet) !
+
+For ongoing development of kubeadm, see the top level https://github.com/kubernetes/kubernetes/tree/master/cmd/kubeadm.  
+
 # Kubeadm
 
 The purpose of this repo is to aggregate issues filed against the kubeadm component.
